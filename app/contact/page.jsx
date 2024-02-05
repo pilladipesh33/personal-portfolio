@@ -45,7 +45,7 @@ const ContactPage = () => {
           </Link>
         </ul>
       </div>
-        <h4 className="text-[27vw] md:text-[23vw] tracking-tighter flex justify-end items-end ">Contact</h4>
+        <h4 className="hidden md:block md:text-[25vw] tracking-tighter md:flex justify-end items-end">Contact</h4>
     </div>
   )
 };
