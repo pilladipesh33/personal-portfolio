@@ -12,6 +12,16 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        white: "#f6f7eb",
+        black: "#393e41",
+        active: "#e94f37",
+      },
+      fontFamily: {
+        zodiakLight: ["var(--font-zodiak-light)"],
+        zodiakRegular: ["var(--font-zodiak-regular)"],
+        zodiakItalics: ["var(--font-zodiak-italics)"],
+      },
     },
   },
   plugins: [],
